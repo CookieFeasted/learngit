@@ -5,4 +5,4 @@ Hello  there
 asddfg
 afhtghty
 create new branch is quick!!!
-create new branch is quick & simple 
+create new branch  is quick and simple
